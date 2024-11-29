@@ -6,13 +6,25 @@
 
 在线客服： 点击这里 {在线时间10:00-22:00}
 
-演示地址 pc端： https://pc.zzpzxz.top base@gmail.com 123456
+h5端：
+h5.sykeji.vip
+base@gmail.com
+123456
 
-总后端： https://admin.zzpzxz.top/admin admin admin
+pc端：
+pc.sykeji.vip
+base@gmail.com
+123456
 
-h5端： https://h5.zzpzxz.top base@gmail.com 123456
+代理端：
+daili.sykeji.vip/admin
+998007
+123456
 
-代理端： https://daili.zzpzxz.top/admin 444555666 444555666
+总后台：
+admin.sykeji.vip/admin
+admin
+123456
 
 ####功能说明 源码简介与安装说明：
 
